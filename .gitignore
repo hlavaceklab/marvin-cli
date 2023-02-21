@@ -1,0 +1,10 @@
+# Mac
+.DS_Store
+
+#IDE
+.idea
+
+# App
+/marvin
+/marvin.exe
+cobra-docs
